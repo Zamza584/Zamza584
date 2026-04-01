@@ -5,7 +5,7 @@ Hello everyone my name is Manuel Zamalloa, currently I am studying at BYU-Idaho 
 I am from Peru, I love to read books and listen to a lot of music. 
 
 ## Technologies and Tools
-- Proficient in: Javascript, Python, C#, React, Next.js, Blazor, CSS, Sass
+- Proficient in: Javascript, Python, C#, React, Next.js, Blazor, CSS
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40">
@@ -15,7 +15,6 @@ I am from Peru, I love to read books and listen to a lot of music.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor" width="40" height="40"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"> 
 </div>
 
 - Skills: Word, Excel, Powerpoint
